@@ -1,0 +1,55 @@
+// [
+//     "Aujourd’hui", // français
+//     "Today", // anglais
+//     "今天", // chinois simple
+//     "今天", // chinois traditionnel
+// ],
+[
+    [
+        "Aujourd’hui",
+        "Today",
+        "今天",
+        "今天",
+    ],
+]
+
+// Aujourd’hui  maintenant  |
+// demain  après-demain  |
+// hier  avant - hier  |
+// jour  nuit  |
+// matin  midi  |
+// après-midi  soir  |
+// minuit    |
+// tout à l’heure  bientôt  |
+// à tout à l’heure  à Bientôt  |
+//   à demain  |
+
+// Lundi Mardi Mercredi jeudi |
+// --- --- --- --- |
+// vendredi samedi dimanche  |
+//     |
+// Janvier Février Mars Avril |
+// May Juin Juillet Août |
+// Septembre Octobre Novembre Décembre |
+//     |
+
+// petit-déjeuner  déjeuner  |
+// --- --- --- --- |
+// table  à table  |
+// confiture  purée  |
+// sauce  jus   |
+// couvert  couteau  |
+// fourchette  paille  |
+// baguettes  végétal  |
+// légume  fruit  |
+// le lait  beurre  |
+//   beurre salé  |
+// caramel  caramel salé  |
+
+// école  professeur  |
+// --- --- --- --- |
+// élèves  cours  |
+// salle  bibliothèque  |
+// durée  temps  |
+// anglais  Mathématique  |
+// physique-chimie  calculer  |

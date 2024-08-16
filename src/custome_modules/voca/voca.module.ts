@@ -9,4 +9,9 @@ import { CommonModule } from '@angular/common';
     CommonModule
   ]
 })
-export class VocaModule { }
+export class VocaModule { 
+  public Fr : string | undefined; 
+  public Ang : string | undefined; 
+  public zh_CN : string | undefined; 
+  public zh_tw : string | undefined; 
+}

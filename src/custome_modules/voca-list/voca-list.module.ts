@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-
+import { VocaModule as Vocabularie } from '../voca/voca.module';
 
 
 @NgModule({
@@ -9,4 +9,6 @@ import { CommonModule } from '@angular/common';
     CommonModule
   ]
 })
-export class VocaListModule { }
+export class VocaListModule { 
+  public List ?: Array<Vocabularie> ;
+}
