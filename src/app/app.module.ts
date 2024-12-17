@@ -8,9 +8,9 @@ import { SignInComponent } from './sign-in/sign-in.component';
 import { StudenInfoComponent } from './studen-info/studen-info.component';
 import { StudenControlePageComponent } from './studen-controle-page/studen-controle-page.component';
 
-import { VocaModule as Vocabularie } from '../custome_modules/voca/voca.module';
-import { VocaListModule as Vocabularie_List} from '../custome_modules/voca-list/voca-list.module';
-import { Voca as VocaInterface} from '../custome_modules/voca'
+// import { VocaModule as Vocabularie } from '../custome_modules/voca/voca.module';
+// import { VocaListModule as Vocabularie_List} from '../custome_modules/voca-list/voca-list.module';
+// import { Voca as VocaInterface} from '../custome_modules/voca'
 
 
 @NgModule({
@@ -20,9 +20,8 @@ import { Voca as VocaInterface} from '../custome_modules/voca'
     SignInComponent,
     StudenInfoComponent,
     StudenControlePageComponent,
-    Vocabularie,
-    Vocabularie_List,
-    VocaInterface
+    // Vocabularie,
+    // Vocabularie_List,
   ],
   imports: [
     BrowserModule,
